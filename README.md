@@ -47,7 +47,7 @@ Projeto Final da disciplina de Backend (Engenharia de Software, SATC). **Etapa 1
 
 **Tema sorteado:** Entretenimento e Cultura
 
-{{Em 3 a 5 linhas: o problema que o grupo criou dentro do tema, quem sofre com ele hoje e o que o sistema muda.}}
+Atualmente, muitas pessoas enfrentam dificuldades para comprar ingressos de eventos devido à falta de um sistema centralizado, o que pode causar desorganização, erros no controle de vagas e dificuldades no acompanhamento das vendas. Com a implementação do sistema, o processo de compra se tornará mais prático, organizado e confiável, melhorando a experiência dos participantes e a gestão dos eventos.
 
 **Quem usa o sistema:**
 
