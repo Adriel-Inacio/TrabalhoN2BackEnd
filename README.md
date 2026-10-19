@@ -40,7 +40,7 @@ Projeto Final da disciplina de Backend (Engenharia de Software, SATC). **Etapa 1
 | Nome | GitHub |
 |---|---|
 | {{Nome completo}} | [@{{usuario}}](https://github.com/{{usuario}}) |
-| {{Bruno da Silva Martins}} | [@{{Br-Silva1}}](https://github.com/Br-Silva1) |
+| {{Bruno da Silva Martins}} | [@Br-Silva1](https://github.com/Br-Silva1) |
 | {{Nome completo}} | [@{{usuario}}](https://github.com/{{usuario}}) |
 
 ## O problema
