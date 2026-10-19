@@ -1,4 +1,4 @@
-# {{Sistema de Compra de Ingressos}}
+# Sistema de Compra de Ingressos
 
 > **Este é o ponto de partida do projeto do grupo.** Apague este bloco antes de entregar.
 >
