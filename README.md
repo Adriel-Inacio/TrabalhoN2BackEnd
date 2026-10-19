@@ -45,7 +45,7 @@ Projeto Final da disciplina de Backend (Engenharia de Software, SATC). **Etapa 1
 
 ## O problema
 
-**Tema sorteado:** {{tema}}
+**Tema sorteado:** Entretenimento e Cultura
 
 {{Em 3 a 5 linhas: o problema que o grupo criou dentro do tema, quem sofre com ele hoje e o que o sistema muda.}}
 
