@@ -53,16 +53,17 @@ Atualmente, muitas pessoas enfrentam dificuldades para comprar ingressos de even
 
 | Quem | O que faz no sistema |
 |---|---|
-| Bibliotecário *(exemplo)* | Cadastra livros e leitores, registra empréstimos e devoluções |
-| ... | ... |
+| **Moderador** | Gerencia ingressos e vendas |
+| **Cliente** | Realiza a compra de ingressos |
 
-**Regras de negócio.** No mínimo 3, criadas pelo grupo a partir do problema: o que o sistema precisa garantir ou impedir. Precisam atender à necessidade do tema e estar implementadas no código. O que só confere formato (campo obrigatório, número positivo) é validação do DTO, não regra de negócio.
+**Regras de negócio.**
+
 
 | # | Regra | Onde está no código | Rota que usa |
 |---|---|---|---|
-| R1 *(exemplo)* | Um leitor não pode ter mais de 3 empréstimos em aberto | `EmprestimoService` | `POST /emprestimos` |
-| R2 | ... | ... | ... |
-| R3 | ... | ... | ... |
+| R1 | Não é permitido vender mais ingressos do que a quantidade disponível para o evento | `EmprestimoService` | `POST /emprestimos` |
+| R2 | Cada compra deve gerar um ingresso com código único | ... | ... |
+| R3 | O cliente só pode visualizar seus próprios ingressos | ... | ... |
 
 **Fora do escopo:** {{o que o grupo decidiu não fazer, para o projeto caber no semestre}}
 
