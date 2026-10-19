@@ -39,8 +39,8 @@ Projeto Final da disciplina de Backend (Engenharia de Software, SATC). **Etapa 1
 
 | Nome | GitHub |
 |---|---|
-| {{Nome completo}} | [@{{usuario}}](https://github.com/{{usuario}}) |
-| {{Bruno da Silva Martins}} | [@Br-Silva1](https://github.com/Br-Silva1) |
+| Adriel Inacio Cardoso | [@Adriel-Inacio](https://github.com/Adriel-Inacio) |
+| Bruno da Silva Martins | [@Br-Silva1](https://github.com/Br-Silva1) |
 | Pedro Bellarmino Cardoso | [@pedrobellarminocardoso](https://github.com/PedroBellarminoCardoso) |
 
 ## O problema
