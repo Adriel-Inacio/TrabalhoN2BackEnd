@@ -34,20 +34,6 @@ import api.service.RecursoNaoEncontradoException;
 // Importa a exceção das regras de negócio violadas.
 import api.service.RegraDeNegocioException;
 
-// Trata exceções de qualquer controller da API, num único lugar.
-//
-// Toda resposta de erro sai como ErroDTO (Aula 09, Exercício 5): esta classe
-// recebe uma exceção (mundo Java) e devolve um DTO (mundo do contrato).
-//
-// Regra de negócio violada? O Service lança RegraDeNegocioException e o
-// cliente recebe 400 com a mensagem da regra. Precisa de outro erro do
-// domínio? Crie a exceção no pacote service e acrescente aqui um método
-// @ExceptionHandler para ela.
-//
-// Cuidado para não criar um @ExceptionHandler(Exception.class) "pega-tudo":
-// ele também capturaria os 404 e 405 que o próprio Spring gera para rotas que
-// não existem, e tudo viraria 500.
-// Registra esta classe para tratar exceções lançadas pelos controllers.
 @RestControllerAdvice
 public class ApiExceptionHandler {
 
